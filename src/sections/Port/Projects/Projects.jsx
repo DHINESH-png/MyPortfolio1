@@ -14,7 +14,7 @@ function Projects() {
         <ProjectCard src={viberr} link='https://github.com/DHINESH-png/pottery.in'
          h3='Pottery'
          p='Advertisement Poster'/>
-          <ProjectCard src={freshBurger} link='https://github.com/DHINESH-png/pottery.in'
+          <ProjectCard src={freshBurger} link='https://github.com/DHINESH-png/Calculator.git'
          h3='MyCalc'
          p='Calculator'/>
           <ProjectCard src={hipster} link='https://github.com/DHINESH-png/pottery.in'
