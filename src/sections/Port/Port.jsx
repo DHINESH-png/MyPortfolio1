@@ -8,7 +8,7 @@ import githubLight from '../../assets/github-light.svg';
 import githubDark from '../../assets/github-dark.svg';
 import linkedinLight from '../../assets/linkedin-light.svg';
 import linkedinDark from '../../assets/linkedin-dark.svg';
-import CV from '../../assets/Resume.jpg';
+import CV from '../../assets/Dhinesh D.pdf';
 import { useTheme } from '../../common/ThemeContext';
 
 function Port() {
