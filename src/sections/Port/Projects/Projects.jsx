@@ -17,10 +17,10 @@ function Projects() {
           <ProjectCard src={freshBurger} link='https://github.com/DHINESH-png/Calculator.git'
          h3='MyCalc'
          p='Calculator'/>
-          <ProjectCard src={hipster} link='https://github.com/DHINESH-png/pottery.in'
+          <ProjectCard src={hipster} link='https://github.com/DHINESH-png/Currency-Converter.git'
          h3='MyCurrency'
          p='Currency Converter'/>
-          <ProjectCard src={fitlift} link='https://github.com/DHINESH-png/pottery.in'
+          <ProjectCard src={fitlift} link='https://github.com/DHINESH-png/Deccan-Air.git'
          h3='Deccan Air'
          p='Airways'/>
         </div>
